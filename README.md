@@ -25,6 +25,9 @@
 https://github.com/user-attachments/assets/d5445be6-8ab6-43ea-8b8f-52d301d453ff
 
 
+You can see a live version of this project [here](https://drive.google.com/drive/folders/1VX30GSR4IQ8Cq3Wz0OFiPQ-OEJUV_9dT?usp=sharing).
+
+
 ## Screenshots
   <img width="330" alt="Screenshot 2024-10-01 at 12 14 51 PM" src="https://github.com/user-attachments/assets/7c1d3341-cc0f-48dd-be34-77b7f1b742d9">
   <img width="330" alt="Screenshot 2024-10-01 at 12 15 25 PM" src="https://github.com/user-attachments/assets/a2345067-c33b-477c-abfe-31885829f266">
