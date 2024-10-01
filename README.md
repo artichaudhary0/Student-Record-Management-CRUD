@@ -36,11 +36,11 @@ https://github.com/user-attachments/assets/d5445be6-8ab6-43ea-8b8f-52d301d453ff
 ## How to Use
 1. Clone the repository :
    ```bash
-   git clone https://github.com/artichaudhary0/advanced-localstorage-crud.git
+   https://github.com/artichaudhary0/Student-Record-Management-CRUD.git
 
  2. Navigate to the project directory :
     ```bash
-    cd enhanced-counter-countdown
+    cd Student-Record-Management-CRUD
     ```
 3. Open the index.html file in a browser.  
 
