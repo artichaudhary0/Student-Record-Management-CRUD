@@ -13,6 +13,13 @@ function displayRecords() {
   recordList.innerHTML = "";
 
   const records = getRecords();
+
+  if (records.length === 0) {
+    recordList.innerHTML = `
+    <tr><td colspan="4">No records available</td></tr>`;
+    return;
+  }
+  
   records.forEach((record, index) => {
     recordList.innerHTML += `
       <tr>
@@ -100,6 +107,11 @@ function searchRecords() {
 
   const recordList = document.getElementById("recordList");
   recordList.innerHTML = "";
+
+  if (filteredRecords.length === 0) {
+    recordList.innerHTML = `<tr><td colspan="4">No records found</td></tr>`;
+    return;
+  }
 
   filteredRecords.forEach((record, index) => {
     recordList.innerHTML += `
